@@ -1,5 +1,5 @@
 layout: page
-title: "ポートフォリオ"
+title: ポートフォリオ
 subtitle: サブタイトル
 
 ポートフォリオを書いていきます。
