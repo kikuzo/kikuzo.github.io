@@ -1,7 +1,5 @@
----
 layout: page
 title: "ポートフォリオ"
-permalink: /portfolio
----
+subtitle: サブタイトル
 
 ポートフォリオを書いていきます。
