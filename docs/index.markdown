@@ -6,7 +6,8 @@
 layout: page
 title: 個人事業主　菊地俊介
 subtitle: FIWARE スマートシティ アドバイザー・コンサルティング・技術顧問
-show_sidebar: false
+show_sidebar: true
+description: 個人事業主　菊地俊介の紹介、FIWAREスマートシティアドバイザーとして活動。
 ---
 
 ## FIWARE スマートシティ アドバイザー・情報通信・ネットワーク系コンサルティング
