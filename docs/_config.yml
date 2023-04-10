@@ -18,18 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: 個人事業主 菊地俊介
+email: kikuzokikuzo@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  個人事業主 菊地俊介の紹介ページ。FIWAREスマートシティアドバイザー、通信・ネットワーク系コンサルティング、技術顧問等。
+  国内有数のFIWARE関連知識をもとに、スマートシティ、DX推進を進めたい自治体・企業の皆様にアドバイス、コンサルティングいたします。スポット相談、専有契約等あり。
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: kikuzo.github.io
 url: "https://kikuzo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
-
+twitter_username: kikuzokikuzo
+github_username:  kikuzo
 
 paginate: 5
 paginate_path: "/blog/page:num"
