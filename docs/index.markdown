@@ -6,5 +6,5 @@
 layout: page
 title: Bulma Clean Themeテスト
 subtitle: 菊地俊介のポートフォリオページページになります
-show_sidebar: true
+show_sidebar: false
 ---
