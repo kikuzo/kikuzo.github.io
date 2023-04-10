@@ -33,6 +33,7 @@ github_username:  jekyll
 # Build settings
 theme: minima
 #remote_theme: "manid2/lone-wolf-theme"
+remote_theme: "bulma-clean-theme"
 plugins:
   - jekyll-feed
 
